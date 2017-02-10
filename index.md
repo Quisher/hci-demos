@@ -1,4 +1,4 @@
-## Welcome to HCI Demos
+## CS441: HCI Demos
 
 - Bulleted
 - List
