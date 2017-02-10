@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 title: [CS441: HCI Demos 123]
 show_downloads: ["false"]
 description: [CS441: ITU]
-future: ["true"]
+future: true
